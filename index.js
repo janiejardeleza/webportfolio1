@@ -2,7 +2,7 @@
 
     "capstone": {
 
-        "liveLink": "<github page link>",
+        "liveLink": "https://janiejardeleza.github.io/webportfolio1/",
 
         "name": "Ada Lovelace",
 
